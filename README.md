@@ -1,32 +1,47 @@
-# Mission 8 — Final Report and Submission
+# Digital Detective 🔍
 
-## 1. Objective
+## About the Project
 
-The objective of this mission was to review the complete Digital Detective assignment and prepare the repository for final submission.
+Digital Detective is a hands-on learning assignment focused on computer fundamentals, operating systems, command-line operations, Git, and GitHub.
 
-## 2. Work Completed
+The assignment is divided into multiple missions, with each mission covering different concepts through practical tasks and documentation.
 
-- Reviewed all mission folders.
-- Checked the documentation and programs.
-- Verified the repository structure.
-- Prepared the final report.
-- Checked the files before submission.
+## Mission Overview
 
-## 3. Repository Structure
+| Mission | Topic |
+|---|---|
+| Mission 0 | Getting Started |
+| Mission 1 | IPOS |
+| Mission 2 | Mission 2 |
+| Mission 3 | Mission 3 |
+| Mission 4 | Mission 4 |
+| Mission 5 | Mission 5 |
+| Mission 6 | Mission 6 |
+| Mission 7 | Mission 7 |
+| Mission 8 | Final Report and Submission |
 
-The repository contains separate folders for each mission, with their respective files and documentation.
-
-## 4. Tools Used
+## Tools Used
 
 - Git and GitHub
-- Terminal
-- VS Code
+- Visual Studio Code
+- macOS Terminal
+- Linux commands
 - Markdown
 
-## 5. What I Learned
+## Learning Outcomes
 
-I learned how to organise project files, write documentation, use Git commands, and push my work to GitHub.
+- Understanding computer fundamentals.
+- Learning operating system concepts.
+- Working with files and directories.
+- Using command-line commands.
+- Understanding Git and version control.
+- Managing a GitHub repository.
+- Writing technical documentation.
 
-## 6. Final Submission
+## Repository Organisation
 
-I reviewed the repository and prepared the completed missions for final submission. 
+Each mission is maintained in a separate folder to keep the project organised and easy to navigate.
+
+## Submission
+
+This repository contains my work and learning progress throughout the Digital Detective assignment.
