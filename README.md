@@ -1,68 +1,32 @@
 # Mission 8 — Final Report and Submission
 
-### Final repository review
+## 1. Objective
 
-I reviewed the mission folders and checked that the required documentation and programs were included.
+The objective of this mission was to review the complete Digital Detective assignment and prepare the repository for final submission.
 
-| Mission | Work |
-|---|---|
-| Mission 0 | Repository setup |
-| Mission 1 | Computer fundamentals and IPOS |
-| Mission 2 | Terminal and file management |
-| Mission 3 | Operating system and permissions |
-| Mission 4 | How programs run |
-| Mission 5 | Number systems and Python converter |
-| Mission 6 | Git and GitHub |
-| Mission 7 | Computer networking |
-| Mission 8 | Final report and submission |
+## 2. Work Completed
 
-### Repository structure
+- Reviewed all mission folders.
+- Checked the documentation and programs.
+- Verified the repository structure.
+- Prepared the final report.
+- Checked the files before submission.
 
-The repository contains separate folders for each mission, with individual README files to keep the work organised.
+## 3. Repository Structure
 
-I also reviewed the root README to make sure it includes the project introduction, mission links and learning summary.
+The repository contains separate folders for each mission, with their respective files and documentation.
 
-### Final review
+## 4. Tools Used
 
-I checked the following:
+- Git and GitHub
+- Terminal
+- VS Code
+- Markdown
 
-- Mission folders and README files.
-- Python files and number converter.
-- Git commit history.
-- Root README and mission links.
-- Personal information in screenshots and outputs.
+## 5. What I Learned
 
-## 3. Commands / tools used
+I learned how to organise project files, write documentation, use Git commands, and push my work to GitHub.
 
-| Command | Purpose |
-|---|---|
-| `ls` | View repository files and folders. |
-| `git status` | Check pending changes. |
-| `git log --oneline` | View commit history. |
-| `git add` | Stage final changes. |
-| `git commit` | Save changes in Git. |
-| `git push` | Upload changes to GitHub. |
+## 6. Final Submission
 
-## 4. My understanding
-
-Through this assignment, I learned how a computer works, how to use Terminal, how an operating system manages files and processes, and how computers communicate through networks.
-
-I also learned basic Python programming, number conversions and how Git and GitHub help manage projects.
-
-Overall, this assignment helped me understand the basics of computer systems through practical activities.
-
-## 5. Difficulties faced
-
-I faced some difficulties while using Terminal and working with Git commands, especially while managing files and pushing changes to GitHub.
-
-## 6. How I resolved them
-
-I resolved these difficulties by checking command outputs, correcting mistakes and practising the commands again.
-
-## 7. Evidence / files
-
-- Root README.md
-- Mission README files
-- hello.py
-- number_converter.py
-- Other mission notes and outputs
+I reviewed the repository and prepared the completed missions for final submission. 
